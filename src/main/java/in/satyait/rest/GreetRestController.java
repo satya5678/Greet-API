@@ -8,7 +8,7 @@ public class GreetRestController {
 	
 	@GetMapping("/greet")
 	public String getGreetMsg() {
-		String msg = "All the best Satya...!";
+		String msg = "All the best Satish...!";
 		return msg;
 	}
 
